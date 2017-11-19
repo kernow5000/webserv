@@ -5,7 +5,7 @@ Functionality is at cost however.
 
 issues at current
 
-	
+       * massive buffer overflow!	
        * get RID of / on end of http_base
        * parser still sucks, working on it
        * needs support for dir listings, working on it
